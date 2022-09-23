@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    background: black;
+    padding-left: 10px;
+    padding-right: 5px;
+    /* ok */
+}
+
+header img {
+    width: 150px;
+    height: 50px;
+    /* ok */
+}
+input {
+    width: 350px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 10px;
+    /* ok */
+}
+
+nav a {
+    text-decoration: none;
+    width: 90px;
+    height: 21px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 21px;
+    color: #FFFFFF;
+    /* mudar a fonte */
+}
