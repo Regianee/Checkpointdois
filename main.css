@@ -9,23 +9,24 @@ main {display: flex;
     align-content: space-between;
     height: 100%;
     background: black;
-    width: 428px;
+    width: 360px;
     /* ok */
 }
 .estrelas {text-align: left;
     display: flex;
     align-items: center;
     gap: 10px;
-    width: 428px;
+    width: 360px;
+    background-color: aqua;
     }
 .bibliografia {
-    width: 428px;
+    width: 360px;
     height: 100%;
     padding-top: 20px;
     
 }
 .bibliografia img {
-    width: 428px;
+    width: 360px;
 }
 h1 {text-align: left;
     color: aliceblue;
@@ -33,15 +34,16 @@ h1 {text-align: left;
     
 }
 .estrelas img {
-    width: 10px;
-    height: 15px;
+    width:20px;
+    height: 20px;
+    background-color: brown;
 }
 p {margin-left: 10px;
     color: aliceblue;}
     
     .video {
     display: flex;
-    width: 428px;
+    width: 360px;
     justify-content: center;
     align-items: flex-end;
     
@@ -49,7 +51,7 @@ p {margin-left: 10px;
 }
 
 .video iframe {
-    width: 400px;
+    width: 360px;
     height: 400px;
     top: 200px;
     border-radius: 12px;
@@ -63,8 +65,10 @@ main {display: flex;
 }
 
 .estrelas img {
-    width: 10px;
-    height: 15px;
+
+    width:20px;
+    height: 20px;
+
     }
      .descrição{
         width: 900px;
